@@ -21,13 +21,13 @@ header h1 {
 
 .book {
     text-align: center;
-	color: rgb(46, 204, 113);
 }
 
 .book h2,
 .book p {
     display: flex;
     margin: 0 10px;
+	color: rgb(46, 204, 113);
 }
 
 div>p {
